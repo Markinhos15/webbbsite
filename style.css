@@ -1,0 +1,43 @@
+p {
+
+	text-align: center;
+	font-size: 18px;
+  }
+
+body {
+
+	background:#C5BAC4;
+     } 
+    
+
+ .banner {
+
+ 	     height: 100%;
+
+
+       width: 100%;
+         
+         }
+
+
+ .itens {
+ 	font-style: italic;
+ }
+
+
+ ul {
+ 	display: inline-block;
+ 	vertical-align: top;
+ 	margin-right: 15px;
+ }
+
+ .cabecario {
+
+   padding-left: 25px;
+ }
+
+ .texto-centralizado {
+
+   text-align: center;
+   
+ }

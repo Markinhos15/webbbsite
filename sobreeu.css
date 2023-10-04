@@ -1,0 +1,119 @@
+#logo {
+
+	width: 200px;
+	margin: 0 250;
+}
+
+header {
+	background: #5483B3;
+	padding: 20px 0;
+}
+
+nav li {
+
+	display: inline;
+	margin: 0 0 0 15px;
+	
+}
+
+nav a {
+	text-transform: uppercase;
+	color: black;
+	font-weight: bold;
+	text-size: 22px;
+	text-decoration: none;
+}
+
+nav {
+
+position: absolute;
+	top:90;
+	right: 400;
+}
+
+.caixa {
+    position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+
+.image {
+
+	width: 220px;
+}
+
+.produtos {
+
+	margin: 10px auto;
+	width: 940px;
+	padding: 50px 0;
+
+}
+
+.produtos li {
+      
+      display: inline-block;
+      text-align: center;
+      width: 30%;
+      vertical-align: top;
+      margin: 0 1.5%;
+      padding: 30px 20px;
+      box-sizing: border-box;
+      border: 2px solid black;
+      border-radius: 10px;
+}
+
+.produtos h2 {
+
+	font-size: 30px;
+	margin: 0 0 10 0;
+	font-weight: bold;
+}
+
+
+.produtos p {
+
+	font-size: 18px;
+}
+
+nav a:hover {
+
+	color: #0C7075;
+
+
+}
+
+.produtos li:hover {
+     border-color: #E1CBD7;
+
+}
+
+.produtos li:active {
+     border-color: #26425A;
+
+}
+
+.produtos li:hover h2 {
+     font-size: 35px;
+
+ }
+
+ footer img {
+  width: 100px;
+
+
+ }
+
+ .copyright {
+ 	color: white;
+
+
+ }
+
+ footer {
+ 	text-align: center;
+ 	background: url("fun.jpeg");
+ 	padding: 40px 0 0;
+ }
+
